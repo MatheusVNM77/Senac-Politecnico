@@ -1,2 +1,2 @@
-# Senca-Polit-cnico
+#senac-politecnico
 só mais um repositório
